@@ -1,0 +1,4 @@
+MODULE CalibData
+    LOCAL PERS tooldata Herr_CIJ:=[TRUE,[[0,0,120],[0.923879533,0,0.382683432,0]],[1,[0,0,1],[1,0,0,0],0,0,0]];
+    TASK PERS wobjdata Tabla:=[FALSE,TRUE,"",[[638.35,191.161,342.088],[0.707106781,0,0,-0.707106781]],[[0,0,0],[1,0,0,0]]];
+ENDMODULE
