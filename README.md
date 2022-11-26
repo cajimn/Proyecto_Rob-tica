@@ -8,7 +8,7 @@
   > - Ivanna Lisette Medina Cruz. [IvannaMedinac](https://github.com/IvannaMedinaC)
   > - Juan Sebastian Rangel Araque. [juanBananin](https://github.com/juanBananin)
   > - Oscar Javier Manrique Merchán. [omanrique18](https://github.com/omanrique18)
-  > - Juan Andrés Bueno Hortúa.
+  > - Juan Andrés Bueno Hortúa. [jbuenoh](https://github.com/jbuenoh)
 
 
 ## Procedimiento
@@ -49,14 +49,20 @@ La rutina consistió en 3 puntos en el espacio que debían coincidir con 3 pines
 -------------------------------------------------------------
 > ## Amálisis de resultados finales
 
-![image](https://user-images.githubusercontent.com/68668422/204068284-0738d381-593f-43fe-9ee2-bd3ad75f5630.png)
-
+Como resultados de la fabricación de la tabla con las piezas nos fue muy bien, pudimos realizar el corte laser de manera satisfactoria, obteniendo esto tal como lo queríamos:
 
 ![image](https://user-images.githubusercontent.com/68668422/204067870-564d6fde-4d61-4fe3-8785-58774d97e4d8.png)
+![image](https://user-images.githubusercontent.com/68668422/204068284-0738d381-593f-43fe-9ee2-bd3ad75f5630.png)
 
+Respecto a la simulación y la ejecución del programa con el robot tambien obtuvimos resultados satisfactorios ya que se lograron agarrar todas las piesas con la ventosa y se soltaron en el punto correcto para llevar a cabo el ensamble del gripper como se buscaba en el proyecto
+A continuación está el video del gripper ensamblado con el robot con su correcto funcionamiento
+
+https://user-images.githubusercontent.com/68668422/204070068-74897adc-00e2-47d8-bcf0-bfd0ef80491d.mp4
 
 --------------------------------------------------------------
 
-> ## Implementación en LabSIR y video final
+> ## Video final
+
+Acontinuación está el video donde presentamos el desarrollo de este proyecto junto con el resultado satisfactorio del robot ensamblando nuestro gripper
 
 https://youtu.be/qYqcjmRns_k
